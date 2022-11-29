@@ -16,7 +16,7 @@ class Header extends Component {
           </div>
           <div className='div1-location'>
           <i className="fa-sharp fa-solid fa-location-dot"></i>
-            <p>203 Madison Ave, NY, USA</p>
+            <p>203 //https://themecraze.net/html/volia/index.html Madison Ave, NY, USA</p>
             <h2>ADDRESS</h2>
           </div>
         </div>
